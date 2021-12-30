@@ -8,5 +8,9 @@ body{
     /* Same as above*/
     font: normal 16px, Arial, Helvetica, sans-serif;
     line-height: 1.6em;
+}
 
+.box1{
+    background-color: #333;
+    color: #fff;
 }

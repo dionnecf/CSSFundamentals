@@ -18,4 +18,13 @@ body{
 .box1{
     background-color: #d8bfd8;
     color: #fff;
+
+    border-right: 3px red solid;
+    border-top: 3px red solid;
+    border-left: 3px red solid;
+    border-bottom: 3px red solid;
+
+    /* Same as above */
+    border: 3px red solid;
+    border-width: 3px; /* same width on all 4 sides*/
 }
